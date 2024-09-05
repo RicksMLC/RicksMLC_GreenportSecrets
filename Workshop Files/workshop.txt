@@ -1,7 +1,7 @@
 version=0.1
-title=Rick's MLC Template
-description= Template template template
-description=
-description= Languages supported:English and (possibly badly translated): Spanish, Korean, Portuguese
+title=Rick's MLC Greenport Secrets
+description= A Greenport FanFic Annotated Map Project
+description= 
+description= Adds Annotated Maps to the secrets at Greenport - Requires Greenport Map.
 tags=Build 41
 visibility=public

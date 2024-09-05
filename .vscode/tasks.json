@@ -8,8 +8,8 @@
             "type": "shell",
             "command": "xcopy",
             "args": [
-                "${env:USERPROFILE}\\Documents\\Ricks Mid Life Crisis\\ProjectZomboid Mods\\RicksMLC_Template\\Workshop Files",
-                "${env:USERPROFILE}\\Zomboid\\Workshop\\RicksMLC_Template\\",
+                "${env:USERPROFILE}\\Documents\\Ricks Mid Life Crisis\\ProjectZomboid Mods\\RicksMLC_GreenportSecrets\\Workshop Files",
+                "${env:USERPROFILE}\\Zomboid\\Workshop\\RicksMLC_GreenportSecrets\\",
                 "/s",
                 "/e",
                 "/y",
@@ -28,7 +28,7 @@
             "type": "shell",
             "command": "del",
             "args": [
-                "${env:USERPROFILE}\\Zomboid\\Workshop\\RicksMLC_Template\\Contents\\mods\\ModName\\media\\lua\\client\\Tests"
+                "${env:USERPROFILE}\\Zomboid\\Workshop\\RicksMLC_GreenportSecrets\\Contents\\mods\\ModName\\media\\lua\\client\\Tests"
             ],
             "problemMatcher": [],
             "group": {
@@ -43,8 +43,8 @@
             "type": "shell",
             "command": "xcopy",
             "args": [
-                "${env:USERPROFILE}\\Documents\\Ricks Mid Life Crisis\\ProjectZomboid Mods\\RicksMLC_Template\\Workshop Files",
-                "${env:USERPROFILE}\\Zomboid\\Workshop\\RicksMLC_Template",
+                "${env:USERPROFILE}\\Documents\\Ricks Mid Life Crisis\\ProjectZomboid Mods\\RicksMLC_GreenportSecrets\\Workshop Files",
+                "${env:USERPROFILE}\\Zomboid\\Workshop\\RicksMLC_GreenportSecrets",
                 "/s",
                 "/e",
                 "/y",
